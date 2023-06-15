@@ -4,7 +4,7 @@ This fork uses plywood available in the U.S. 1/4" or 1/2" rather than the 8mm fr
 
 Additionally this adds different gear profiles that allow for higher gear ratios and no need to buy exact belt sizes or worry about belt tension. It also includes a gimbal adapter allowing 2020 aluminum extrusion as an extension before the actual stick is installed. 
 
-![image](assembly_1.jpg) 
+![image](new_FFB_VPForce.jpg) 
 
 3d-print-parts - all elements which need to be printed  
 DXF - drawings for case parts for laser cutting  
