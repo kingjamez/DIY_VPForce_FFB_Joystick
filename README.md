@@ -24,19 +24,24 @@ CAD - full STP assembly
 |GIMBAL_ARM_BEARING_PILLOW|4|
 |GIMBAL_ARM_FRAME|2|
 |GIMBAL_CORE_JOINT_6mm|1|
-|GIMBAL_STICK_CONNECTOR TM|1|
-|PULLEY_70T_Hollow|2|
+|GIMBAL_STICK_CONNECTOR|1|
+|Top_Adapter |1|
+|PULLEY_96T|1|
+|PULLEY_128T|1|
 |VPForce_Controller_Holder|1|
+|USB-B Panel Mount |1|
+|XT30 Panel Mount |1|
 
-| LaserCut Parts Plywood 8mm| Quantity |
+| LaserCut Parts Plywood 1/4"| Quantity |
 | -------------- |:--------:|
-|Back-Panel|1|
-|Buttom-Panel|1|
-|Front-Panel|1|
-|Left-Panel|1|
-|Mid-Panel|1|
-|Right-Panel|1|
-|Top-Panel|1|
+|Rear|2|
+|Bottom|2|
+|Front|2|
+|Left-Side|2|
+|Mid-Panel|2|
+|Right-Side|2|
+|Top-Top |1|
+|Top-2nd-Layer |1|
 
 | Bearings                      | Quantity  | Link |
 | ----------------------------- | --------- | ---- |
@@ -47,9 +52,28 @@ CAD - full STP assembly
 
 | Motor pulley                  | Quantity  | Link |
 | ----------------------------- | --------- | ---- |
-| HTD-5M-14T                    | 2  |[link](https://www.zahnriemen24.de/a/40140-zahnscheiben-5m?vorbohrungspannsatz=1&bohrung=1&quantity=1/) |
+| 3GT -16Tooth-8mm Bore         | 2  |[link](https://www.ebay.com/itm/225592008473) |
 
 | Belts                  		| Quantity  | Link |
 | ----------------------------- | --------- | ---- |
-| HTD-420-5M/15                 | 1  |[link](https://www.zahnriemen24.de/a/40008-zahnriemen-5m/) |
-| HTD-360-5M/15                 | 1  |[link](https://www.zahnriemen24.de/a/40008-zahnriemen-5m/) |
+| 3GT-3mm Open Loop Timing Belt | 1 meter|[link](https://www.ebay.com/itm/224467077690?var=523250397611) |
+
+|Electronics                |Quantity | Link|
+|---------------------------| -------- | ---- |
+|DIN5 Female Connector      | 1  | |
+|XT 30 Male / Female        | 1  | |
+|19V 10 amp DC Power Supply | 1  | |
+|Emergency Cutoff Switch 10A| 1  | |
+|10k Potentiometer          | 2  | |
+|5 Conductor Cable          | 1ft| |
+
+|Hardware                |Quantity | Link|
+|---------------------------| -------- | ---- |
+|#8-3/4" Wood Screws        |  20?| |
+|Bolts for Bearing Pillows  |  8  | |
+|Long Bolt for Center Gimbal|  1  | |
+|Nut and washer for long bolt|  1  | |
+|Motor Mount Bolts          |  8  | |
+|Motor Mount Washers        |  8  | |
+|Leather for stick cover    | 1  |  |
+|Bolts for connecting 2020 to gimbal  | 8 | |
