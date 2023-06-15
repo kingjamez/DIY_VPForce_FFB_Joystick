@@ -1,6 +1,8 @@
 # VPForceKit-ffb-joystick-base plywood WIP
 This project contains CAD files necessary for the mechanical assembly of a base of the VPForce kit (2x57BLF03 + USB kit).
-It is currently only a prototype that I will develop further for my own FFB base.
+This fork uses plywood available in the U.S. 1/4" or 1/2" rather than the 8mm from the original files. My laser cutter can only do 1/4" plywood reliably so I double stack each cut for a total of 1/2" thick walls. In some cases like the top, the bottom peice is different from the top peice in order to accomodate 2.5D features like switch cutouts. Making the walls thicker also required the bearing retainers be re-made so those have been updated as well.
+
+Additionally this adds different gear profiles that allow for higher gear ratios and no need to buy exact belt sizes or worry about belt tension. It also includes a gimbal adapter allowing 2020 aluminum extrusion as an extension before the actual stick is installed. 
 
 ![image](assembly_1.jpg) 
 
