@@ -45,9 +45,9 @@ CAD - full STP assembly
 
 | Bearings                      | Quantity  | Link |
 | ----------------------------- | --------- | ---- |
-| 6802                          | 8  |[link](https://amzn.eu/d/eDOVoF4/) |
-| 6808                          | 4  |[link](https://amzn.eu/d/eurbt7d/) |
-| F625                          | 2  |[link](https://amzn.eu/d/9N6LxrD/) |
+| 6802 (24x15x5mm)              | 8  |[link](https://www.ebay.com/itm/144972685318) |
+| 6808 (52x40x7mm)              | 4  |[link](https://www.ebay.com/itm/131569718806) |
+| F625 (16x5x5mm, 18x1mm flange)| 2  |[link](https://www.ebay.com/itm/143709341709) |
 
 
 | Motor pulley                  | Quantity  | Link |
@@ -60,16 +60,16 @@ CAD - full STP assembly
 
 |Electronics                |Quantity | Link|
 |---------------------------| -------- | ---- |
-|DIN5 Female Connector      | 1  | |
-|XT 30 Male / Female        | 1  | |
-|19V 10 amp DC Power Supply | 1  | |
-|Emergency Cutoff Switch 10A| 1  | |
-|10k Potentiometer          | 2  | |
+|DIN5 Female Connector      | 1  |[link] (https://www.digikey.com/en/products/detail/cui-devices/MD-50PL100/500828)|
+|XT 30 Male & Female        | 2 (1ea)  |[link] (https://www.racedayquads.com/products/xt30-connector-male-or-female?keyword=xt30%20connector) |
+|19V 180W+ DC Power Supply | 1  | [link] (https://www.amazon.com/gp/product/B082F4L9L7/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)|
+|Emergency Cutoff Switch 10A| 1  |[link](https://www.amazon.com/gp/product/B091CWYWGL/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
+|10k Potentiometer          | 2  |[link] (https://www.amazon.com/gp/product/B00MCK7JMS/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) |
 |5 Conductor Cable          | 1ft| |
 
 |Hardware                |Quantity | Link|
 |---------------------------| -------- | ---- |
-|#8-3/4" Wood Screws        |  20?| |
+|#8-3/4" Wood Screws        |  20?|[link] (https://www.amazon.com/Stainless-Standard-Tapping-SG-TZH/dp/B0B2K21SZH/ref=sr_1_5?crid=29DR51USJI18D&keywords=%238x3%2F4+wood+screws&qid=1686854862&sprefix=+8x3%2F4+wood+screws%2Caps%2C64&sr=8-5) |
 |Bolts for Bearing Pillows  |  8  | |
 |Long Bolt for Center Gimbal|  1  | |
 |Nut and washer for long bolt|  1  | |
