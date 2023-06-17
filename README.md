@@ -77,3 +77,7 @@ CAD - full STP assembly
 |Motor Mount Washers        |  8  | |
 |Leather for stick cover    | 1  |  |
 |Bolts for connecting 2020 to gimbal  | 8 | |
+|M5x50mm Cap Bolt through center gimbal connector | 1| |
+|M4 Locking Hex Nuts for Gimbal Arms | 12| |
+|M4x35mm Cap Bolts to connect gears to Gimbal Arms | 12 | |
+
