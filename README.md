@@ -1,4 +1,6 @@
-v# VPForceKit-ffb-joystick-base plywood WIP
+Note that as of 17 June 2023, I deleted the adapter to go from the 0.75" square aluminum to Thrustmaster thread. It wasn't finished. I'd recommend using the direct to thrustmaster Gimbal right now until I get the new version up.
+
+VPForceKit-ffb-joystick-base plywood WIP
 This project contains CAD files necessary for the mechanical assembly of a base of the VPForce kit (2x57BLF03 + USB kit).
 This fork uses plywood available in the U.S. 1/4" or 1/2" rather than the 8mm from the original files. My laser cutter can only do 1/4" plywood reliably so I double stack each cut for a total of 1/2" thick walls. In some cases like the top, the bottom peice is different from the top peice in order to accomodate 2.5D features like switch cutouts. Making the walls thicker also required the bearing retainers be re-made so those have been updated as well.
 
@@ -74,9 +76,11 @@ CAD - full STP assembly
 |M6x20mm Motor Mount Bolts          |  8  | |
 |M6 Motor Mount Washers        |  8  | |
 |Leather for stick cover    | 1  |  |
-|Bolts for connecting 2020 to gimbal  | 8 | |
+|Bolts for connecting Aluminum Square Tube to gimbal  | 8 | |
 |M5x50mm Cap Bolt through center gimbal connector | 1| |
 |Nut and washer for long bolt|  1  | |
 |M4 Locking Hex Nuts for Gimbal Arms | 12| |
 |M4x35mm Cap Bolts to connect gears to Gimbal Arms | 12 | |
+|M2.5 screws to hold VPForce board to standoffs |4| |
+|M3 screws to install VPForce board into chassis |2| |
 
