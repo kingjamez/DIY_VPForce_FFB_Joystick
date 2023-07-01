@@ -72,7 +72,6 @@ CAD - full STP assembly
 
 |Hardware                |Quantity | Link|
 |---------------------------| -------- | ---- |
-
 |M4x12mm Bolts for Bearing Pillows  |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=13341) |
 |M6x20mm Motor Mount Bolts          |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=13352) |
 |M6 Motor Mount Lock Washers        |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=4813) |
@@ -90,8 +89,8 @@ CAD - full STP assembly
 |M3 washers |32 |[link](https://www.boltdepot.com/Product-Details.aspx?product=4513)|
 |Bolt Depot with all hardware above| [link]([https://www.boltdepot.com/cart/215477](https://www.boltdepot.com/cart/215482))||
 |M3 screws to install VPForce board into chassis |2| |
-|#8-1" Self Drilling Wood Screws        |  20? | [link](https://a.co/d/aeVexTG)https://a.co/d/aeVexTG |
+|#8-1" Self Drilling Wood Screws        |  20? | [link](https://a.co/d/aeVexTG)|
 |Hardware to mount to your SIM PIT | 4 | |
-|M4 Inserts High Quality | 8| [link](https://a.co/d/0r7RgK8)|
+|M4 Inserts High Quality | 8| [Amazon](https://a.co/d/0r7RgK8)|
 
 
