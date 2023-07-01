@@ -89,7 +89,7 @@ Ebay is also a good source for these standard size bearings.
 |M6 Motor Mount Lock Washers        |  8  | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4813) |
 |M6 Motor Mount Washers        |  8  | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4516) | 
 |M5x12mm Aluminum Square Tube to gimbal  | 8 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=13344) |
-|M5 Flange nut for center gimbal | 2| [Bolt Depot\(https://www.boltdepot.com/Product-Details.aspx?product=17684)|
+|M5 Flange nut for center gimbal | 2| [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=17684)|
 |M5x50mm Bolt through center gimbal connector | 1| [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=13344) |
 |M5 Washer |  2 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4515)|
 |M5 Lock Nut | 1 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4794)|
