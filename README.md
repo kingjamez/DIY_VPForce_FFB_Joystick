@@ -16,7 +16,7 @@ CAD - full STP assembly
 
 | VPForce Kit   | Quantity | Link |
 |-------------- |:--------:|-----:|
-|57BLF03 - 57x101mm - 1.6Nm peak - 1.24kg - NEMA23|1|[VPForce](https://vpforcecontrols.com/) |
+|57BLF03 - 57x101mm - 1.6Nm peak - 1.24kg - NEMA23|1|[VPForce Kit Order Sheet](http://order.vpforce.eu) |
 
 | Print Parts   | Quantity |
 | ------------- |:--------:|
