@@ -46,9 +46,11 @@ CAD - full STP assembly
 
 | Bearings                      | Quantity  | Link |
 | ----------------------------- | --------- | ---- |
-| 6802 (24x15x5mm)              | 8  |[ebay](https://www.ebay.com/itm/144972685318) |
-| 6808 (52x40x7mm)              | 4  |[ebay](https://www.ebay.com/itm/131569718806) |
-| F625 (16x5x5mm, 18x1mm flange)| 2  |[ebay](https://www.ebay.com/itm/143709341709) |
+| 6802 (24x15x5mm)              | 8  | [JSB](https://jsbgreatbearings.com/68022rs-c-9_87/68022rs-premium-6802-2rs-seal-bearing-6802-ball-bearings-6802-rs-abec3-p-310.html)|
+| 6808 (52x40x7mm)              | 4  | [JSB](https://jsbgreatbearings.com/68082rs-c-9_300/68082rs-two-side-rubber-seals-bearing-6808rs-ball-bearings-6808-rs-p-676.html)|
+| F625 (16x5x5mm, 18x1mm flange)| 2  | [JSB](https://jsbgreatbearings.com/f625zz-c-3_505/flange-ball-bearing-f625zz-metal-shields-f625zz-high-quality-f625-zz-p-1022.html) |
+
+Alternate source for bearings: [123bearings](https://123bearings.com)
 
 
 | Motor pulley                  | Quantity  | Link |
