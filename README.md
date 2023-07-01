@@ -61,11 +61,11 @@ CAD - full STP assembly
 
 |Electronics                |Quantity | Link|
 |---------------------------| -------- | ---- |
-|DIN5 Female Connector      | 1  |[link] (https://www.digikey.com/en/products/detail/cui-devices/MD-50PL100/500828)|
-|XT 60 Panel Mount Male & Female  | 2 (1ea)  |[link] (https://a.co/d/0gA4TEY) |
-|19V 180W+ DC Power Supply | 1  | [link] (https://a.co/d/iy1mMZF)|
+|DIN5 Female Connector      | 1  |[link](https://www.digikey.com/en/products/detail/cui-devices/MD-50PL100/500828)|
+|XT 60 Panel Mount Male & Female  | 2 (1ea)  |[link](https://a.co/d/0gA4TEY) |
+|19V 180W+ DC Power Supply | 1  | [link](https://a.co/d/iy1mMZF)|
 |Emergency Cutoff Switch 10A| 1  |[link](https://a.co/d/2vKUG6i) |
-|10k Potentiometer          | 2  |[link] (https://a.co/d/dEJRBl2) |
+|10k Potentiometer          | 2  |[link](https://a.co/d/dEJRBl2) |
 |5 Conductor Cable          | 1ft| |
 |80mm 24V fan | 1| [link](https://a.co/d/5TQbYCp)|
 |USB-B Panel Mount | 1| [link](https://a.co/d/8rjkGPT)|
@@ -73,9 +73,9 @@ CAD - full STP assembly
 |Hardware                |Quantity | Link|
 |---------------------------| -------- | ---- |
 
-|M4x12mm Bolts for Bearing Pillows  |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=13341)|
+|M4x12mm Bolts for Bearing Pillows  |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=13341) |
 |M6x20mm Motor Mount Bolts          |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=13352) |
-|M6 Motor Mount Lock Washers        |  8  |[link]( https://www.boltdepot.com/Product-Details.aspx?product=4813) |
+|M6 Motor Mount Lock Washers        |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=4813) |
 |M6 Motor Mount Washers        |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=4516) | 
 |M5x12mm Aluminum Square Tube to gimbal  | 8 | [link](https://www.boltdepot.com/Product-Details.aspx?product=13344) |
 |M5x50mm Bolt through center gimbal connector | 1| [link](https://www.boltdepot.com/Product-Details.aspx?product=13344) |
