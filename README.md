@@ -1,10 +1,8 @@
-Note that as of 17 June 2023, I deleted the adapter to go from the 0.75" square aluminum to Thrustmaster thread. It wasn't finished. I'd recommend using the direct to thrustmaster Gimbal right now until I get the new version up.
-
-VPForceKit-ffb-joystick-base plywood WIP
+Work in Progress
 This project contains CAD files necessary for the mechanical assembly of a base of the VPForce kit (2x57BLF03 + USB kit).
 This fork uses plywood available in the U.S. 1/4" or 1/2" rather than the 8mm from the original files. My laser cutter can only do 1/4" plywood reliably so I double stack each cut for a total of 1/2" thick walls. In some cases like the top, the bottom peice is different from the top peice in order to accomodate 2.5D features like switch cutouts. Making the walls thicker also required the bearing retainers be re-made so those have been updated as well.
 
-Additionally this adds different gear profiles that allow for higher gear ratios and no need to buy exact belt sizes or worry about belt tension. It also includes a gimbal adapter allowing 2020 aluminum extrusion as an extension before the actual stick is installed. 
+Additionally this adds different gear profiles that allow for higher gear ratios and no need to buy exact belt sizes or worry about belt tension. It also includes a gimbal adapter allowing 0.75" square aluminum tubing as an extension before the actual stick is installed using standard Thrustmaster / Virpil threads (M35x2). 
 
 ![image](new_FFB_VPForce.jpg) 
 
