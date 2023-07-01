@@ -16,7 +16,7 @@ CAD - full STP assembly
 
 | VPForce Kit   | Quantity | Link |
 |-------------- |:--------:|-----:|
-|57BLF03 - 57x101mm - 1.6Nm peak - 1.24kg - NEMA23|1|[link](https://vpforcecontrols.com/) |
+|57BLF03 - 57x101mm - 1.6Nm peak - 1.24kg - NEMA23|1|[VPForce](https://vpforcecontrols.com/) |
 
 | Print Parts   | Quantity |
 | ------------- |:--------:|
@@ -46,51 +46,51 @@ CAD - full STP assembly
 
 | Bearings                      | Quantity  | Link |
 | ----------------------------- | --------- | ---- |
-| 6802 (24x15x5mm)              | 8  |[link](https://www.ebay.com/itm/144972685318) |
-| 6808 (52x40x7mm)              | 4  |[link](https://www.ebay.com/itm/131569718806) |
-| F625 (16x5x5mm, 18x1mm flange)| 2  |[link](https://www.ebay.com/itm/143709341709) |
+| 6802 (24x15x5mm)              | 8  |[ebay](https://www.ebay.com/itm/144972685318) |
+| 6808 (52x40x7mm)              | 4  |[ebay](https://www.ebay.com/itm/131569718806) |
+| F625 (16x5x5mm, 18x1mm flange)| 2  |[ebay](https://www.ebay.com/itm/143709341709) |
 
 
 | Motor pulley                  | Quantity  | Link |
 | ----------------------------- | --------- | ---- |
-| 3GT -16Tooth-8mm Bore         | 2  |[link](https://www.ebay.com/itm/225592008473) |
+| 3GT -16Tooth-8mm Bore         | 2  |[ebay](https://www.ebay.com/itm/225592008473) |
 
 | Belts                  		| Quantity  | Link |
 | ----------------------------- | --------- | ---- |
-| 3GT-3mm Open Loop Timing Belt | 1 meter|[link](https://www.ebay.com/itm/224467077690?var=523250397611) |
+| 3GT-3mm Open Loop Timing Belt | 1 meter|[ebay](https://www.ebay.com/itm/224467077690?var=523250397611) |
 
 |Electronics                |Quantity | Link|
 |---------------------------| -------- | ---- |
-|DIN5 Female Connector      | 1  |[link](https://www.digikey.com/en/products/detail/cui-devices/MD-50PL100/500828)|
-|XT 60 Panel Mount Male & Female  | 2 (1ea)  |[link](https://a.co/d/0gA4TEY) |
-|19V 180W+ DC Power Supply | 1  | [link](https://a.co/d/iy1mMZF)|
-|Emergency Cutoff Switch 10A| 1  |[link](https://a.co/d/2vKUG6i) |
-|10k Potentiometer          | 2  |[link](https://a.co/d/dEJRBl2) |
+|DIN5 Female Connector      | 1  |[Digikey](https://www.digikey.com/en/products/detail/cui-devices/MD-50PL100/500828)|
+|XT 60 Panel Mount Male & Female  | 2 (1ea)  |[Amazon](https://a.co/d/0gA4TEY) |
+|19V 180W+ DC Power Supply | 1  | [Amazon](https://a.co/d/iy1mMZF)|
+|Emergency Cutoff Switch 10A| 1  |[Amazon](https://a.co/d/2vKUG6i) |
+|10k Potentiometer          | 2  |[Amazon](https://a.co/d/dEJRBl2) |
 |5 Conductor Cable          | 1ft| |
-|80mm 24V fan | 1| [link](https://a.co/d/5TQbYCp)|
-|USB-B Panel Mount | 1| [link](https://a.co/d/8rjkGPT)|
+|80mm 24V fan | 1| [Amazon](https://a.co/d/5TQbYCp)|
+|USB-B Panel Mount | 1| [Amazon](https://a.co/d/8rjkGPT)|
 
 |Hardware                |Quantity | Link|
 |---------------------------| -------- | ---- |
-|M4x12mm Bolts for Bearing Pillows  |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=13341) |
-|M6x20mm Motor Mount Bolts          |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=13352) |
-|M6 Motor Mount Lock Washers        |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=4813) |
-|M6 Motor Mount Washers        |  8  | [link](https://www.boltdepot.com/Product-Details.aspx?product=4516) | 
-|M5x12mm Aluminum Square Tube to gimbal  | 8 | [link](https://www.boltdepot.com/Product-Details.aspx?product=13344) |
-|M5x50mm Bolt through center gimbal connector | 1| [link](https://www.boltdepot.com/Product-Details.aspx?product=13344) |
-|M5 Washer |  2 | [link](https://www.boltdepot.com/Product-Details.aspx?product=4515)|
-|M5 Lock Nut | 1 | [link](https://www.boltdepot.com/Product-Details.aspx?product=4794)|
-|M4 Locking Hex Nuts for Gimbal Arms | 12| [link](https://www.boltdepot.com/Product-Details.aspx?product=4793)|
-|M4x35mm Cap Bolts to connect gears to Gimbal Arms | 12 | [link](https://www.boltdepot.com/Product-Details.aspx?product=18949)|
-|M2.5 screws to hold VPForce board to standoffs |4|[link](https://www.boltdepot.com/Product-Details.aspx?product=24854) |
-|M3x25 bolts to hold bearing holders in place | 16|[link]( https://www.boltdepot.com/Product-Details.aspx?product=18942) |
-|M3 lock nuts | 16|[link]( https://www.boltdepot.com/Product-Details.aspx?product=4792)|
-|M3 lock washers | 16 | [link](https://www.boltdepot.com/Product-Details.aspx?product=4810)|
-|M3 washers |32 |[link](https://www.boltdepot.com/Product-Details.aspx?product=4513)|
-|Bolt Depot with all hardware above| [link]([https://www.boltdepot.com/cart/215477](https://www.boltdepot.com/cart/215482))||
-|M3 screws to install VPForce board into chassis |2| |
-|#8-1" Self Drilling Wood Screws        |  20? | [link](https://a.co/d/aeVexTG)|
-|Hardware to mount to your SIM PIT | 4 | |
+|M4x12mm Bolts for Bearing Pillows  |  8  | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=13341) |
+|M6x20mm Motor Mount Bolts          |  8  | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=13352) |
+|M6 Motor Mount Lock Washers        |  8  | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4813) |
+|M6 Motor Mount Washers        |  8  | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4516) | 
+|M5x12mm Aluminum Square Tube to gimbal  | 8 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=13344) |
+|M5x50mm Bolt through center gimbal connector | 1| [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=13344) |
+|M5 Washer |  2 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4515)|
+|M5 Lock Nut | 1 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4794)|
+|M4 Locking Hex Nuts for Gimbal Arms | 12| [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4793)|
+|M4x35mm Cap Bolts to connect gears to Gimbal Arms | 12 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=18949)|
+|M2.5 screws to hold VPForce board to standoffs |4|[Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=24854) |
+|M3x25 bolts to hold bearing holders in place | 16|[Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=18942) |
+|M3 lock nuts | 16|[Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4792)|
+|M3 lock washers | 16 | [Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4810)|
+|M3 washers |32 |[Bolt Depot](https://www.boltdepot.com/Product-Details.aspx?product=4513)|
+|Bolt Depot cart with all above hardware| | [Bolt Depot](https://www.boltdepot.com/cart/215477)|
+|M3 screws to install VPForce board into chassis |2| Find in parts bin |
+|#8-1" Self Drilling Wood Screws |  1pkg | [Amazon](https://a.co/d/aeVexTG)|
+|Hardware to mount to your SIM PIT | 4 | 5mm mounting holes|
 |M4 Inserts High Quality | 8| [Amazon](https://a.co/d/0r7RgK8)|
 
 
